@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "cafes",
+      "items": [
+        {
+          "name": "Águas de Março",
+          "price": 5
+        },
+        {
+          "name": "Sampa",
+          "price": 6.5
+        },
+        {
+          "name": "Garota de Ipanema",
+          "price": 7
+        },
+        {
+          "name": "Chega de Saudade",
+          "price": 6
+        },
+        {
+          "name": "Carinhoso",
+          "price": 8
+        },
+        {
+          "name": "Cappuccino Malandragem",
+          "price": 9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "sobremesas",
+      "items": [
+        {
+          "name": "Doce de Maracujá",
+          "price": 8
+        },
+        {
+          "name": "Romeu e Julieta",
+          "price": 9
+        },
+        {
+          "name": "Chão de Giz",
+          "price": 10
+        },
+        {
+          "name": "Bolinho de Chuva",
+          "price": 6.5
+        },
+        {
+          "name": "Coração Bobo",
+          "price": 7.5
+        },
+        {
+          "name": "Pettit Gateau Ilegais",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "especiais",
+      "items": [
+        {
+          "name": "Tarde em Itapoã",
+          "price": 12
+        },
+        {
+          "name": "O Canto da Cidade",
+          "price": 10
+        },
+        {
+          "name": "Fora da Ordem",
+          "price": 11.5
+        },
+        {
+          "name": "O Leãozinho",
+          "price": 9.5
+        },
+        {
+          "name": "Iron Maiden",
+          "price": 11.5
+        },
+        {
+          "name": "Metallica",
+          "price": 9.5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "bebidasGeladas",
+      "items": [
+        {
+          "name": "Sorvete de Baunilha",
+          "price": 7
+        },
+        {
+          "name": "Milk Shake de Chocolate",
+          "price": 10
+        },
+        {
+          "name": "Milk Shake de Morango",
+          "price": 10
+        },
+        {
+          "name": "Vitamina de Banana",
+          "price": 8
+        },
+        {
+          "name": "Vitamina de Morango",
+          "price": 8.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "chas",
+      "items": [
+        {
+          "name": "Chá de Hortelã",
+          "price": 4.5
+        },
+        {
+          "name": "Chá Verde",
+          "price": 5
+        },
+        {
+          "name": "Chá de Camomila",
+          "price": 4.5
+        },
+        {
+          "name": "Chá de Frutas Vermelhas",
+          "price": 6
+        },
+        {
+          "name": "Chá de Gengibre e Limão",
+          "price": 5.5
+        }
+      ]
+    }
+  ],
+  "orders": []
+}
