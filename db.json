@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "category": "cafes",
       "items": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "category": "sobremesas",
       "items": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "category": "especiais",
       "items": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "category": "bebidasGeladas",
       "items": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "category": "chas",
       "items": [
         {
@@ -143,5 +143,6 @@
       ]
     }
   ],
-  "orders": []
+  "orders": [],
+  "contacts": []
 }
